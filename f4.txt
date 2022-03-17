@@ -1,0 +1,2 @@
+again new file created in branch b1 
+now this file will be pull to local machine using pull operation
